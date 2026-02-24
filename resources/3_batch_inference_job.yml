@@ -29,7 +29,7 @@ resources:
       #       node_type_id: "Standard_D4s_v3"
       #       custom_tags:
       #         Environment: "${var.environment}"
-gi      #         Project: "mlops-quickstart"
+      #         Project: "mlops-quickstart"
       #         Purpose: "batch-inference"
 
       # Job tasks
